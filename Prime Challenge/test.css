@@ -1,0 +1,87 @@
+ul {text-align: left;
+  font-size: 16px;
+}
+body {
+	font-size: 16px;
+	background-color: white;
+	font-family: calibri;
+	}
+#header-nav {
+	background-color: white;
+	border-radius: 0;
+	border: 0;
+	text-align: center;
+	font-size: 50px;
+}
+span {
+	color: black;
+}
+p {
+text-align: left;
+}
+#header {
+	color: black;
+	font-size: 40px;
+	text-align: left;
+}
+#expertise {
+	color: black;
+	font-size: 40px;
+	text-align: left;
+}
+#draft {
+	color: black;
+	font-size: 40px;
+	text-align: left;
+}
+#exp {
+	color: black;
+	font-size: 40px;
+	text-align: left;
+}
+#education {
+	color: black;
+	font-size: 40px;
+	text-align: left;
+}
+#container {
+  color: black;
+	font-size: 25px;
+	text-align: left;
+}
+#experience1 {
+  color: black;
+	font-size: 15px;
+	text-align: left;
+}
+#experience {
+  color: black;
+	font-size: 20px;
+	text-align: left;
+}
+.navbar-header {
+	color: black;
+}
+ul.topnav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+ul.topnav li {float: left;
+}
+ul.topnav li a {
+    display: inline-block;
+    color: #f2f2f2;
+    padding: 14px 16px;
+    text-decoration: none;
+    transition: 0.3s;
+    font-size: 17px;
+}
+ul.topnav li a:hover {background-color: #555;
+}
+ul.topnav li.icon {display: none;
+}
+expertise {color: red;
+}
